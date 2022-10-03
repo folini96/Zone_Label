@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/zone_label" >
+        <file>zone_label_icon.png</file>
+	  <file>Images/pointer_green.png</file>
+	  <file>Images/pointer_red.png</file>
+    </qresource>
+</RCC>
