@@ -12,8 +12,8 @@ email=andrea.folini@polimi.it
 
 about=Starting from a specified rectangular area, it is possible to split the area in smaller equal areas and to assign a label (either Accept or Reject) and a description to each area.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/folini96/Zone_Label/issues
+repository=https://github.com/folini96/Zone_Label
 # End of mandatory metadata
 
 # Recommended items:
@@ -23,9 +23,9 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python, split area, rectangle, label, classification
 
-homepage=http://homepage
+homepage=https://github.com/folini96/Zone_Label
 category=Plugins
 icon=zone_label_icon.png
 # experimental flag
